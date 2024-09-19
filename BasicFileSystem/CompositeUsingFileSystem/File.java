@@ -1,7 +1,7 @@
 package CompositeUsingFileSystem;
 
 public class File implements FileSystem {
-	String fileName;
+	private String fileName;
 	public File( String fileName) {
 		this.fileName = fileName;
 		
