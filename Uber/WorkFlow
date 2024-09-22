@@ -8,3 +8,6 @@ Trip Manager
   - Responsible for creating a trip and interacts with other managers for their specific roles.
     
 This design follows SOLID principles and implements the Strategy and Singleton design 
+
+see below UML Image is Attached 
+
