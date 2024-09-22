@@ -1,0 +1,10 @@
+Strategy Manager
+  - StrategyMgr (Manager) is responsible for determining the pricing for a particular ride based on the TripMetaData. This metadata includes user rating, source location, and destination.
+Rider Manager
+  - Manages information about the Driver.
+Rider Manager
+  - Manages information about the Rider.
+Trip Manager
+  - Responsible for creating a trip and interacts with other managers for their specific roles.
+    
+This design follows SOLID principles and implements the Strategy and Singleton design 
