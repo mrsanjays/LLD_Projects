@@ -109,7 +109,7 @@ public class TreeMapper {  // SingleTon
 		}
 		particularObjectForSuperior.addMember(particularObjecForSubFamily);
 		
-		System.out.println("\nSuccess Linked two Family!");
+		System.out.println("\nSuccessfully Linked two Family!");
 	}
 
 }
