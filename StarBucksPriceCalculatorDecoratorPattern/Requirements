@@ -1,0 +1,8 @@
+- Order Beverages
+- Pick add-ons for the beverage
+- Pay Only for the add-on you want
+- Should have flexibility to on board new beverage without affecting existing ones
+- Should have flexibility to on-board new add-ons without affecting existing ones
+
+Solution - Decorator pattern
+         - allows us to add a new functionality to existing objects without changing its structure at all
